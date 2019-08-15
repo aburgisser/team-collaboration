@@ -1,8 +1,8 @@
-site_name: hackweeks
+site_name: team collaboration
 nav:
     - Home: index.md
     - About: about.md
-    - Opening: opening.md
-    - Tutorials: tutorials.md
-    - Projects: projects.md
+    - Team Formation: formation.md
+    - Production Mode: production.md
+    - Synthesis and Wrap-Up: synthesis.md
 theme: readthedocs
