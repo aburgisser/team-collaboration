@@ -1,8 +1,11 @@
 # Overview
 
-This documentation provides information on methods for hosting and facilitating data science educational workshops, in particular short (1-2 week) interactive, participant-driven events. The approaches described here come out of experimentation with the [hackweek model](https://www.pnas.org/content/115/36/8872.short) designed within the [Moore/Sloan Data Science Environment](http://msdse.org/). Previous events include [astrohackweek](https://astrohackweek.org), [geohackweek](https://geohackweek.github.io), [neurohackadamey](https://neurohackademy.org), [waterhackweek](https://waterhackweek.github.io), [oceanhackweek](https://oceanhackweek.github.io) and [Cryospheric Sciences with ICESat-2 hackweek](https://icesat-2hackweek.github.io).
+Increasingly, funding agencies are asking scientists to to build cross-team collaborations into their research projects. While we assume most scientists acknowledge the value of collaborative science, they are rarely offered a roadmap for how to form and sustain collaborations. Moreover, few people talk about the benefits and costs of adding collaborations to an already extensive list of research priorities in any given project.
 
-In general, hackweeks aim to blend the best elements of summer schools and hackathons. There is no one right way to host and facilitate these events, and each version of our hack-events have experimented with a range of different approaches. This documentation is intended to serve as a general reference for event planners to choose from a range of tools that we have found work well. Specific implmentations will depend on the group size, the level to which particular communities have already adopted open source and reproducible methods, and the specific learning objectives of each event. 
+This documentation offers an initial roadmap for building a collaborative team within the paramaters of a common funding model in the United States, where agencies such as the National Science Foundataion (NSF) and the National Aeronautical and Space Administration (NASA) award ten or so institutions funding over a 3-5 year period to address a specific research problem. We aim to share lessons learned from leading and facilitating several uniquely collaborative efforts funded by NASA since about 2016.
+
+We recognize there are many ways to build highly collaborative teams. What is offered here is based on our direct experience in integrating science within a community composed primarily of earth scientists. We hope this documentation will continue to evolve as we test and refine new methods moving forward, and that we will continue to tailor collaborative structures to a variety of scientific domains.  
+
 
 
 
