@@ -61,8 +61,6 @@ Once the overall teams are selected and each of the roles described above are in
 
 This simplest way to get connected is to provide everyone with a roadmap of who is on the team. The Project Manager should compile a spreadsheet listing each person who is funded on the effort. This should include everyone involved in the work, from Principal Investigators to students to technicians. 
 
-<img src = "images/teamMap.jpg", width="400">
-
 ## Team Competencies
 
 Once the roadmap is in place, a short survey should be sent out that describes each person's competencies.
