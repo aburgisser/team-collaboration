@@ -70,7 +70,7 @@ Once the overall teams are selected and each of the roles described above are in
 
 This simplest way to get connected is to provide everyone with a roadmap of who is on the team. The Project Manager should compile a spreadsheet that contains information on each team member's name, contact information, institution and position. It is important to include everyone who may be involved in the project, from research technicians to faculty to program managers. It is helpful to then turn this information into a chart or graphic that maps out each of the team, for example by PI group. This information should be shared freely across the team.
 
-<img src = "images/teamMap.jpg", width="400">
+<img src = "https://github.com/aaarendt/team-collaboration/blob/master/images/teamMap.jpg", width="400">
 
 ## Team Competencies
 
