@@ -3,7 +3,10 @@ nav:
     - Home: index.md
     - About: about.md
     - Team Formation: formation.md
-    - Production Mode: production.md
+    - Building Collaborations: collaboration.md
+    - Communication Strategies: communication.md
+    - Data Sharing: data.md
+    - Authorship Agreements: authorship.md
     - Synthesis and Wrap-Up: synthesis.md
 theme: 
     name: readthedocs
@@ -12,3 +15,4 @@ extra_css:
     - css/extra.css
 markdown_extensions:
   - admonition
+repo_url: https://github.com/NASA-HiMAT/team-collaboration
