@@ -5,4 +5,10 @@ nav:
     - Team Formation: formation.md
     - Production Mode: production.md
     - Synthesis and Wrap-Up: synthesis.md
-theme: readthedocs
+theme: 
+    name: readthedocs
+    highlightjs: true
+extra_css:
+    - css/extra.css
+markdown_extensions:
+  - admonition
