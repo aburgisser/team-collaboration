@@ -78,7 +78,14 @@ Now that we have a map of the team composition, it helps to know what unique ski
 
 ## Discovering Complementary and Overlapping Work
 
-One of the greatest potential barriers to cross-team collaboration is that multiple teams may have proposed to do similar tasks. This sets up a tension within the group as each researcher tries to be the first to publish and gain credit for a specific activitity. Therefore it is fundamentally important that structures be put in place that facilitate both a discovery of overlapping work, as well an opportunity for teams to adjust their workplans so that their work can be collaborative and complementary. 
+One of the greatest potential barriers to cross-team collaboration is that multiple teams may have proposed to do similar tasks. This sets up a tension within the group as each researcher tries to be the first to publish and gain credit for a specific activitity. Therefore it is fundamentally important that structures be put in place that facilitate both a discovery of overlapping work, as well an opportunity for teams to adjust their workplans so that their work can be collaborative and complementary
+
+  
+!!! note
+    Anthony tried this. and then this
+
+more text
+
 
 # Establishing Team Norms
 

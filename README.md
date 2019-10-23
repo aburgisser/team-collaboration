@@ -6,8 +6,6 @@ This repository contains documentation on lessons learned during leadership of t
 
 For more information contact [Dr. Anthony Arendt](mailto:arendta@uw.edu).
 
-
-
 ### Technical notes
 
 * This documentation is built and deployed using [mkdocs](https://www.mkdocs.org/).
