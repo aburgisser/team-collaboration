@@ -3,10 +3,12 @@ nav:
     - Home: index.md
     - About: about.md
     - Team Formation: formation.md
-    - Building Collaborations: collaboration.md
-    - Communication Strategies: communication.md
+    - Revised Workplans: workplan.md
+    - Code of Conduct: conduct.md
     - Data Sharing: data.md
     - Authorship Agreements: authorship.md
+    - Communication Strategies: communication.md
+    - In Person Meetings: meetings.md
     - Synthesis and Wrap-Up: synthesis.md
 theme: 
     name: readthedocs
