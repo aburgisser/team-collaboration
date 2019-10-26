@@ -1,0 +1,4 @@
+# In-Person Meetings
+
+It's remarkable, given all of the scientific innovations that have occurred during the past century, that scientists continue to rely on a limited range of communication tools when they gather together in person. Despite some signs of recent change, the majority of scientific workshops rely almost entirely on presentations as a mode of communication. Presentations involve the one-way transfer of information from a speaker to an audience of passive listeners. While presentations do have a place in scientific communcation, serving primarily to convey new knowledge such as a major research finding, they are quite ineffective when it comes to building and maintaining team collaborations. We feel that presentations should be one of a broad spectrum of tools available to researchers when they gather together in person. 
+
