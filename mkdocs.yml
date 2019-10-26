@@ -4,11 +4,13 @@ nav:
     - About: about.md
     - Team Formation: formation.md
     - Revised Workplans: workplan.md
+    - Collaboration Tools: tools.md
+    - In Person Meetings: InPersonMeetings.md
+    - Remote Meetings: RemoteMeetings.md
     - Code of Conduct: conduct.md
     - Data Sharing: data.md
-    - Authorship Agreements: authorship.md
-    - Communication Strategies: communication.md
-    - In Person Meetings: meetings.md
+    - Attribution of Effort: authorship.md
+    - Formation of Sub-Groups: subgroups.md
     - Synthesis and Wrap-Up: synthesis.md
 theme: 
     name: readthedocs
