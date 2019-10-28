@@ -1,6 +1,6 @@
 # In-Person Meetings
 
-It's remarkable, iven all of the scientific innovations that have occurred during the past century, that scientists continue to rely on a relatively limited range of communication tools when they gather together in person. Despite some signs of recent change, the majority of scientific workshops rely almost entirely on presentations as a mode of communication. Presentations involve the one-way transfer of information from a speaker to an audience of passive listeners. While presentations do have a place in scientific communcation, serving primarily to convey new knowledge that will be of interest to a broad community, they are largely ineffective when it comes to building and maintaining team collaborations. We feel that presentations should be one of a broad spectrum of tools available to researchers when they gather together in person. Below we list a series of additional structures that we have experimented with in structuring in-person workshops.
+It's remarkable, given all of the scientific innovations that have occurred during the past century, that scientists continue to rely on a relatively limited range of communication tools when they gather together in person. Despite some signs of recent change, the majority of scientific workshops rely almost entirely on presentations as a mode of communication. Presentations involve the one-way transfer of information from a speaker to an audience of passive listeners. While presentations do have a place in scientific communcation, serving primarily to convey new knowledge that will be of interest to a broad community, they are largely ineffective when it comes to building and maintaining team collaborations. We feel that presentations should be one of a broad spectrum of tools available to researchers when they gather together in person. Below we list a series of additional structures that we have experimented with in structuring in-person workshops.
 
 ## Meeting Design
 
@@ -21,7 +21,7 @@ Meeting code of conduct and norms.
 
 ### Strategic Planning
 
-[Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework).
+[Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework)
 [Future backwards](https://cognitive-edge.com/methods/the-future-backwards/)
 
 ### Sharing New Ideas
