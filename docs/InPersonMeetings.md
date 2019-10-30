@@ -35,3 +35,6 @@ Meeting code of conduct and norms.
 ### Leadership strategies
 
 
+## Meeting Preparations
+
+https://highmountainasia.github.io/first-meeting-website/design/
