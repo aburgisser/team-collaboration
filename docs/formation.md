@@ -4,7 +4,7 @@ The foundation for building collaborative science teams begins with thoughtful d
 
 ## Project Solicitation
 
-Collaborative team building begins with the writing of the funding solicitation. A solicitation is a short document advertising an opportunity for researchers to apply for funding to work on a specific project. Traditionally, researchers gather together a small handful of trusted colleagues and write a proposal aimed at convincing the funding agency that their group is best equipped, and has the best ideas, to solve the problem at hand, and should therefore be funded. By funding several such teams in any particular round of funding, the idea is that at least one or two teams will generate enough new ideas to move the field forward. This funding model has generated a lot of high impact science over the years.
+Collaborative team building begins with the writing of the funding solicitation. Traditionally, researchers respond to a solicitation by gathering together a small handful of trusted colleagues. They write a proposal aimed at convincing the funding agency that their group is best equipped, and has the best ideas, to solve the problem at hand, and should therefore be funded. By funding several such teams in any particular round of funding, the idea is that at least one or two teams will generate enough new ideas to move the field forward. This funding model has generated a lot of high impact science over the years.
 
 But what if a resarch problem is too broad or complex for a single team to address? Many program managers have recognized the need for building connections across the handful of teams that get funded in a project. This is usually motivated by a desire to reduce duplication of effort and to advance the science in ways that cannot be done in isolation. 
 
@@ -14,7 +14,7 @@ A well crafted solicitation (click [here](https://nspires.nasaprs.com/external/v
 
 Scientists are trained to work for long hours in isolation to accomplish highly complex tasks. They usually share this work with a small set of trusted colleagues, based on relationships formed over many years. Asking them to rapidly connect with a large group of new researchers takes effort that should be clearly justified. 
 
-A well crafted solicitation will provide a vision for what could be achieved through the extra effort invested in collaboration. Specific examples should be provided, for example the linking of modeling studies with field observations that will lead to improved validation and calibration. In our view, researchers should be encouraged to bring their specialty to the table (in this example, either modeling or field expertise) while describing how they would interface with teams having different expertise. One challenge we have identified in past collaborative efforts is that every team, perhaps in an effort to increase their chances to be funded, proposed to do every part of the collaboration pipeline, leaving us with multiple teams "trying to do it all". We would rather see each team bringing a unique set of skills to the table that can then be integrated with other teams to produce something that could not have been achieved in isolation.
+A well crafted solicitation will provide a vision for what could be achieved through the extra effort invested in collaboration. Specific examples should be provided, for example the linking of modeling studies with field observations that will lead to improved validation and calibration. In our view, researchers should be encouraged to bring their specialty to the table (in this example, either modeling or field expertise) while describing how they would interface with teams having different expertise. One challenge we have identified is that every team, perhaps in an effort to increase their chances to be funded, proposed to do every part of the collaboration pipeline, leaving us with multiple teams "trying to do it all". We would rather see each team bringing a unique set of skills to the table that can then be integrated with other teams to produce something that could not have been achieved in isolation.
 
 ### Provide clear expectations 
 
@@ -22,7 +22,7 @@ Research scientists who spend time writing proposals get very good at estimating
 
 ### Provide reporting and reward structures
 
-Building and maintaining collaborations takes time that might otherwise be dedicated to writing papers and advancing one's own individual science objectives. Teams that engage most in a collaborative process may find themselves with fewer academic products to show for that fulfill traditional metrics, primarily numbers of papers published. A solicitation that truly wishes to build collaboration should describe other metrics for rewarding collaborations. This might include numbers of datasets shared, participation in leading sub-group activities, numbers of contributions to open-source software repositories, or other tasks. There should also be clear guidelines on how to report on these less traditional academic performance metrics.
+Building and maintaining collaborations takes time that might otherwise be dedicated to writing papers and advancing one's own individual science objectives. Teams that engage most in a collaborative process may find themselves with fewer academic products such as numbers of papers published. A solicitation that truly wishes to build collaboration should describe other metrics for rewarding collaborations. This might include numbers of datasets shared, participation in leading sub-group activities or numbers of contributions to open-source software repositories. There should also be clear guidelines on how to report on these less traditional academic performance metrics.
 
 ## Team Selection and Composition
 
@@ -32,15 +32,15 @@ Once the panel review is complete the successfully-funded projects are notified.
 
 ## Administrative Roles
 
-Managing and facilitating highly collaborative scientific research requires investment in a variety of administrative roles. We suggest the following positions represent a minimum level of administrative support needed to foster scientific collaboration.
+Managing and facilitating highly collaborative scientific research requires investment in a variety of administrative roles. We suggest the following positions represent a minimum level of administrative support needed to foster scientific collaboration:
 
 ### Program Manager
 
-The role of the program manager is to write the solicitation, guide the proposal peer-review process, allocate funds and provide big-picture guidance to the teams. For a high collaborative effort we recommend close coordination between the program manager and other administrative support described below, especially the science team lead. This will help ensure clear communication of high level programmatic needs to the group. 
+The role of the program manager is to write the solicitation, guide the proposal peer-review process, allocate funds and provide big-picture guidance to the teams. For a high collaborative effort we recommend close coordination between the program manager and other administrative support described below, especially the science team lead. This will help ensure clear communication of high level programmatic needs to the broader group. 
 
 ### Project Manager
 
-There should be a dedicated Project Manager who takes care of logistics, schedules meetings, keeps records of team membership, tracks publications, organizes in-person meetings and facilitates communication between all the various players. The best project managers will have some working understanding of the broad research objectives of the teams so that they can be on the lookout for potential collaborative opportunities as they arise.
+There should be a dedicated Project Manager who takes care of logistics, schedules meetings, keeps records of team membership, tracks publications, organizes in-person meetings and facilitates cross-team communications. The best project managers will have some working understanding of the broad research objectives of the teams so that they can be on the lookout for potential collaborative opportunities as they arise.
 
 ### Science Team Lead
 
