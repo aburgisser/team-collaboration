@@ -6,7 +6,7 @@ A potential disadvantage to forming sub-groups is that some people may feel they
 
 ## Formation
 
-Discussions about the possibility for sub-group formation should occur early in the project lifecycle. Rather than trying to proscribe what project components might benefit from the formation of sub-groups, which will be difficult to do before the work has begun, the group should instead establish structures to recognize when the time might be right to consider breaking into smaller teams. Here are some 
+Discussions about the possibility for sub-group formation should occur early in the project lifecycle. Rather than trying to proscribe what project components might benefit from the formation of sub-groups, which will be difficult to do before the work has begun, the group should instead establish structures to recognize when the time might be right to consider breaking into smaller teams. Here are some ideas for the formation of subgroups.
 
-* 
+
 

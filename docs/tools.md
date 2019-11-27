@@ -1,6 +1,6 @@
 # Collaboration Tools
 
-Building effective team communication is the cornerstone of collaborative research. This does not mean scheduling as many meetings, calls and online communications as is humanly possible in the hopes that collaboartion will magically occur! Instead, there should be well designed and strategically timed channels of communication baked in to the team structures early in the process, each of which is targeted to a specific purpose. Every time some form of communication is scheduled, there ought to be a simple question asked: "What is the purpose of this meeting?". If no one has a ready answer, then save the meeting for a later time!
+Building effective team communication is the cornerstone of collaborative research. This does not mean scheduling as many meetings, calls and online communications as is humanly possible in the hopes that collaboartion will magically occur! Instead, there should be well designed and strategically timed channels of communication baked in to the team structures early in the process, each of which is targeted to a specific purpose. Every time some form of communication is scheduled, there ought to be a simple question asked: "What is the purpose of this meeting?" If no one has a ready answer, then save the meeting for a later time!
 
 ## Personnel Chart
 
