@@ -63,12 +63,6 @@ One facilitation approach uses [TRIZ](http://www.liberatingstructures.com/21-des
 
 Another approach is to have small group discussions on using the [What, So What, Now What](http://www.liberatingstructures.com/9-what-so-what-now-what-w/) structure. The basic principle here is that conversations on difficult topics can often turn unproductive when people jump to conclusions. We minimize this by starting people off making a list of "just the facts", or the "What" of a specific topic. Next we ask of each item on this list "So What?" or "Why is this item important?". This stage generates meaning from the observations and helps people see things in a broader context. When this is complete, participants go through the list one last time and ask, "Now What?". Here we come up with specific actions, if any, that should follow from the obserations and meaning assigned to them. Note that in conventional conversations, many people jump into action (the "Now What" stage) without proceeding along this more structured "ladder of inference". 
 
-!!! note "HiMAT authorship discussion"
-    As the HiMAT was beginning to generate manuscripts with multiple authors we had a need to decide on authorship guidelines. In small groups, meeting participants were invited to explore "In your wider community, what have you noticed, observed, and experienced when it comes to how decisions get made about authorship: who is included, in what order, and who gets acknowledged or left out? What are the norms?" Next groups were invited to consider "So what, why are these norms important to notice as we publish our HiMAT results? So what, if anything, requires us to think differently about authorship and adapt?". Finally, groups considered "Now what ideas do you have for how we could address our potential authorship challenges?"
-
-### Synthesizing major research findings
-
-
 ## Meeting Preparations
 
 Advanced preparation on the part of meeting participants will allow for greater productivity during the workshop. A dedicated workshop webpage goes a long way in helping people know what to expect regarding scheduling, logistics and overall workshop content. Ideally the webpage should be a dynamic, working environment that can be built on and modified during the workshop. We recommend using GitHub or other easily modified web hosting environments for such a purpose.
