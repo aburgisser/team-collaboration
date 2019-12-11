@@ -16,10 +16,11 @@
 <table>
     <tr>
         <td><img src="../images/CharleyHaley.jpg" width=250  alt="portrait of Charley Haley"></td>
-        <td> [Charley Haley](https://www.linkedin.com/in/pamhaley/) is Innovation Strategist andCollaboration Structuralist at Back Loop Consulting Group in Seattle, Washington. </td>
+        <td> [Charley Haley](https://www.linkedin.com/in/pamhaley/) is Innovation Strategist and Collaboration Structuralist at Back Loop Consulting Group in Seattle, Washington. </td>
     </tr>
 </table>
 
+We wish to acknowledge the incredible group of scientists who co-created much of what we present here during the 2016-2019 NASA High Mountain Asia Team project.
 
 # Contributing
 
