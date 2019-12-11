@@ -1,3 +1,5 @@
+# Workplan and Science Traceability Matrix
+
 ## Discovering Complementary and Overlapping Work
 
 Once a team is formed the building of collaborative structures can begin. One of the greatest potential barriers to cross-team collaboration is that multiple teams may have proposed to do similar tasks. This may set up a tension within the group as each researcher tries to be the first to publish and gain credit for a specific activitity. Therefore it is important that structures be put in place to facilitate both a discovery of overlapping work, as well an opportunity for teams to adjust their workplans so that their work can be collaborative and complementary.
@@ -11,7 +13,7 @@ As everyone gets more clear on their objectives and proposed activities, it help
 
 Here is a sample Science Traceability Matrix from HiMAT:
 
-**Validating a Glacier Melt Toolbox For High Mountain Asia Using a Remote-Sensing-Driven Data Integration Framework**
+**Project Title**:Validating a Glacier Melt Toolbox For High Mountain Asia Using a Remote-Sensing-Driven Data Integration Framework
 
 <div style="min-width: 720px; overflow-x:auto; background-color: #eceff4">
 <table border="0" style="table-layout: fixed; width: 100%;">

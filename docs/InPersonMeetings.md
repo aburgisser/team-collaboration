@@ -2,6 +2,9 @@
 
 It's remarkable, given all of the scientific innovations that have occurred during the past century, that scientists continue to rely on a relatively limited range of communication tools when they gather together in person. Despite some signs of recent change, the majority of scientific workshops rely almost entirely on presentations as a mode of communication. Presentations involve the one-way transfer of information from a speaker to an audience of passive listeners. While presentations do have a place in scientific communcation, they are often ineffective when it comes to building and maintaining team collaborations. We feel that presentations should be one of a broad spectrum of tools available to researchers when they gather together in person. Below we list a series of additional structures that we have experimented with in designing in-person workshops.
 
+![attendees of HiMAT workshop in Seattle](images/HiMAT-Seattle.png)
+*Attendees of the 2017 NASA HiMAT all-hands workshop in Seattle, WA*
+
 ## Meeting Design
 
 Planning for an in-person meeting should begin several months in advance of the event. We recommend assembling a small *design team* composed of several investigators who volunteer to help plan the meeting together with the science team lead and facilitator. The first planning call should focus on defining the overall purpose of the workshop which will inform the structure and design. At a minimum, the layout of the event should be documented in a standard meeting agenda, but a better approach is to build a [design story board](http://www.liberatingstructures.com/21-design-storyboards/) that explicitly lists the purpose, content and structure of each activity ([here](files/HiMATWorkshopDay1Storyboard.pdf) is a sample storyboard from our first HiMAT workshop). 
