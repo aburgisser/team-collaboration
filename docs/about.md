@@ -23,7 +23,7 @@
 
 # Contributing
 
-We recognize there are many ways to build highly collaborative teams. What is offered here is based on our direct experience in designing collaborative structures within a community composed primarily of earth scientists. We hope this documentation will continue to evolve as we test and refine new methods, and that we can continue to design collaborative structures that meet the needs of a diversity of scientific domains.  We welcome contributions to this document at our [GitHub page](https://github.com/highmountainasia/team-collaboration).
+We recognize there are many ways to build highly collaborative teams. What is offered here is based on our direct experience in designing collaborative structures within a community composed primarily of earth scientists. We hope this documentation will continue to evolve as we test and refine new methods. We welcome contributions to this document at our [GitHub page](https://github.com/highmountainasia/team-collaboration) or via e-mail to Anthony Arendt ([arendta@uw.edu](mailto:arendta@uw.edu)).
 
 
 
