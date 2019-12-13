@@ -20,6 +20,17 @@
     </tr>
 </table>
 
+
+### S. Fisher Qua
+
+<table>
+   <tr>
+     <td> <a href="https://www.linkedin.com/in/sfqua/">S. Fisher Qua</a> is a Practitioner with Back-Loop Consulting. His work exists to unflatten learning, protect our collective imagination, and restore the belief in other people's intelligence. 
+       </td>
+       <td><img src="../images/FisherQua.jpg" width=400 alt="portrait of S. Fisher Qua"></td>
+   </tr>
+</table>
+
 We wish to acknowledge the incredible group of scientists who co-created much of what we present here during the 2016-2019 NASA High Mountain Asia Team project.
 
 # Contributing
