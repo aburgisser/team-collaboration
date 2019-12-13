@@ -3,11 +3,11 @@ nav:
     - Home: index.md
     - About: about.md
     - Team Formation: formation.md
+    - Code of Conduct: conduct.md
     - Workplans: workplan.md
     - Collaboration Tools: tools.md
     - In Person Meetings: InPersonMeetings.md
     - Remote Meetings: RemoteMeetings.md
-    - Code of Conduct: conduct.md
     - Data Sharing: data.md
     - Attribution of Effort: authorship.md
     - Formation of Sub-Groups: subgroups.md
