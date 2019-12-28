@@ -23,7 +23,7 @@
   <tbody>
     <tr>
         <td><img style='height: 100%; width: 100%; object-fit: contain' src="../images/CharleyHaley.jpg" alt="portrait of Charley Haley"></td>
-        <td> [Charley Haley](https://www.linkedin.com/in/pamhaley/) is Innovation Strategist and Collaboration Structuralist at Back Loop Consulting Group in Seattle, Washington. </td>
+        <td><a href="https://www.linkedin.com/in/pamhaley/">Charley Haley</a> is Innovation Strategist and Collaboration Structuralist at Back Loop Consulting Group in Seattle, Washington. </td>
     </tr>
     </tbody>
 </table>
